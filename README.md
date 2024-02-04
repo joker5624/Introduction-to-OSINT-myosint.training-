@@ -9,7 +9,9 @@ Ideal for individuals who found themselves thinking about the buzz around OSINT,
 
 **Key learning objectives:**
   -Understand what OSINT is and how it is used in work contexts.
+
   -Understand how OSINT investigations are conducted.
+
   -Understand what they need to prepare before conducting OSINT investigations.
 
 
