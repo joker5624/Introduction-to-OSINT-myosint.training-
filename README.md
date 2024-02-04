@@ -7,6 +7,7 @@ Our exploration of OSINT goes beyond mere definitions. It provides a comprehensi
 
 Ideal for individuals who found themselves thinking about the buzz around OSINT, whether in casual conversations, at the office, social gatherings, or online platforms. This course is designed to transform your curiosity into a deep and well-informed understanding. Join us for an enlightening and enjoyable exploration into the world of Open Source Intelligence, where we demystify OSINT for you.
 
+
 **Key learning objectives:**
 
   -Understand what OSINT is and how it is used in work contexts.
@@ -14,6 +15,7 @@ Ideal for individuals who found themselves thinking about the buzz around OSINT,
   -Understand how OSINT investigations are conducted.
 
   -Understand what they need to prepare before conducting OSINT investigations.
+
 
 
 **At the end of the course, you will:**
