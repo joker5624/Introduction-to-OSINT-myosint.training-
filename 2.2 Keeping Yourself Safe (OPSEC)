@@ -1,0 +1,17 @@
+MOT now has a dedicate OPSEC course at https://www.myosint.training/courses/opsec-and-privacy.
+
+OPSEC or Operational Security refers to keeping you and your systems safe and as anonymous as you need them to be when performing your OSINT work. Micah and Griffin cover:
+
+  -Thinking about your own threat model (what and who are you trying to hide your activities from)
+  -How to vary the use of security and anonymity protects to appear how you want to appear on the internet
+  -How to protect your identity from being disclosed in your OSINT work
+  -Methods of obfuscating your network traffic to keep it private
+  -How to isolate and protect your analyst platform (OSINT system) from your personal or other work system
+  -Using the PDFs at the US Special Operations Command (link below) to protect and further secure yourself and your systems
+
+
+
+References:
+
+Nico Dekens' OSINT Curious blog post - https://myosint.link/5a
+US Special Operations Command Identity Management Cards - https://myosint.link/opsec1 
